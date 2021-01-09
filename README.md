@@ -13,4 +13,4 @@
 * JS
 * Webpack
 
-Ссылка: камень, ножницы, бумага, ящерица, спок](https://smillepack.github.io/RLSSP/dist/)
+Ссылка: [камень, ножницы, бумага, ящерица, спок](https://smillepack.github.io/RLSSP/dist/)
