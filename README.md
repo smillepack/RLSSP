@@ -13,4 +13,4 @@
 * JS
 * Webpack
 
-Ссылка: [2D Platform](https://smillepack.github.io/RLSSP/dist/)
+Ссылка: [камень, ножницы, бумага, ящирица, споук](https://smillepack.github.io/RLSSP/dist/)
